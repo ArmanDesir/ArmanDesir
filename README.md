@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ArmanDesir&label=Visitors&color=0e75b6&style=flat" />
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -22,7 +22,7 @@
 - 😎 Working on Discover Zamboanga  
 - 🔥 Focused on real-world projects  
 
----
+
 
 ## ⚡ Stats
 
@@ -41,7 +41,7 @@
   </a>
 </p>
 
----
+
 
 ## 🔥 Contribution Streak
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ArmanDesir&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -57,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,php,c,vite,supabase,firebase,css,tailwind,git,github,vscode" />
 </p>
 
----
+
 
 ## 📊 Activity Graph
 
@@ -65,7 +65,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanDesir&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+
 
 ## 🏆 Achievements
 
@@ -73,7 +73,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ArmanDesir&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -86,7 +86,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   ⚡ <b>Build real systems. Stay consistent.</b>
