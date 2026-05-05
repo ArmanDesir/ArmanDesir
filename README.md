@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Jerico Divino</h1>
+<h1 align="center">⚡ Zyke Perez</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Flutter+%7C+Web+%7C+Automation;Building+Real-World+Systems;Turning+Ideas+Into+Apps" />
