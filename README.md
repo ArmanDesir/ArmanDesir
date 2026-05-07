@@ -1,7 +1,7 @@
-<h1 align="center">⚡ Zyke Perez</h1>
+<h1 align="center">⚡ Jerico Divino</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Flutter+%7C+Web+%7C+Automation;Building+Real-World+Systems;Turning+Ideas+Into+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Flutter+%7C+Web+%7C+Automation;Building+Real-World+Systems;Turning+Ideas+Into+Apps" />
 </p>
 
 <p align="center">
@@ -14,50 +14,39 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 **Fullstack Developer** (Flutter + Web)  
-- ⚡ Building scalable systems & automation  
-- 📱 Worked on a **Math Learning App** - 😎 Working on **Discover Zamboanga** - 🔥 Focused on real-world projects  
+- 💻 Fullstack Developer (Flutter + Web)
+- ⚡ Building scalable systems & automation
+- 📱 Developed a Math Learning Application
+- 🌍 Working on Discover Zamboanga
+- 🔥 Focused on real-world projects
 
 ---
 
-## ⚡ Stats
+# ⚡ GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ArmanDesir">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmanDesir&theme=tokyonight" />
-  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmanDesir&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ArmanDesir">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArmanDesir&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ArmanDesir">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArmanDesir&theme=tokyonight" />
-  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArmanDesir&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArmanDesir&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five.vercel.app/?user=ArmanDesir&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ArmanDesir&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,php,c,vite,supabase,firebase,css,tailwind,git,github,vscode" />
-</p>
-
----
-
-## 📊 Activity Graph
+# 📊 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanDesir&theme=tokyo-night&hide_border=true" />
@@ -65,7 +54,7 @@
 
 ---
 
-## 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArmanDesir&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -73,19 +62,72 @@
 
 ---
 
-## 🔗 Connect With Me
+# 🧠 Tech Stack
 
 <p align="center">
-  <a href="https://facebook.com/jerico.divino" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,php,c,vite,supabase,firebase,css,tailwind,git,github,vscode,mysql,postgresql" />
+</p>
+
+---
+
+# 📌 Current Projects
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📚 Math Learning App
+- Flutter + Dart
+- SQLite + PostgreSQL
+- Teacher & Student System
+- Quizzes, Lessons & Progress Tracking
+
+</td>
+
+<td width="50%">
+
+### 🌍 Discover Zamboanga
+- Tourism & Business Platform
+- Web Development
+- Content & Automation
+- Real-world Client System
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ArmanDesir">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:froschcrow@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <a href="https://facebook.com/jerico.divino">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="mailto:froschcrow@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+# 💻 Coding Activity
+
 <p align="center">
-  ⚡ <b>Build real systems. Stay consistent.</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanDesir&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanDesir&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Build real systems. Stay consistent. ⚡</b>
 </p>
