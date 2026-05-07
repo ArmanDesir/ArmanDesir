@@ -16,11 +16,9 @@
 
 ## 🚀 About Me
 
-- 💻 Fullstack Developer (Flutter + Web)  
+- 💻 **Fullstack Developer** (Flutter + Web)  
 - ⚡ Building scalable systems & automation  
-- 📱 Worked on a Math Learning App  
-- 😎 Working on Discover Zamboanga  
-- 🔥 Focused on real-world projects  
+- 📱 Worked on a **Math Learning App** - 😎 Working on **Discover Zamboanga** - 🔥 Focused on real-world projects  
 
 ---
 
@@ -46,7 +44,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArmanDesir&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-five.vercel.app/?user=ArmanDesir&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,11 +76,11 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/jerico.divino">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://facebook.com/jerico.divino" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:froschcrow@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:froschcrow@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
