@@ -22,29 +22,6 @@
 - 🌍 Working on Discover Zamboanga
 - 🔥 Focused on real-world projects
 
----
-
-# ⚡ GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmanDesir&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArmanDesir&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArmanDesir&theme=tokyonight" />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArmanDesir&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 📊 GitHub Activity Graph
 
